@@ -1,0 +1,31 @@
+Central Tendencies are very useful in Handling the missing values in a dataset
+
+Mean :- Missing values in a dataset can be replaced with "mean" value,if the data is uniformly distributed.
+
+Median :- Missing values in a dataset can be replaced with "median" value,if the data is skewed(tircha).
+
+Mode :- Missing values in dataset can be replaced with "mode" value,if the data is skewed.Missing categorical 
+                  values can also be replaced with mode value
+ 
+
+
+				5.Measure of Variability  :------
+                     ----------------------------------------------------------------------
+
+Range :- The range is the difference in the maximum and minimum values of a data set. The maximum is 
+                    the largest value in the dataset and the minimum is the smallest value. The range is easy to calculate but it is 
+                      very much affected by extreme values.
+
+			Range = maximum - minimum
+
+Variance :- Variance is a measure of how for each number in the set is from the mean and therefore from every 
+                      other number in the dataset.
+
+
+                     Sample variance(s*s)=∑(xi - μ)(xi - μ) /n
+
+                        s*s =Sample Variance
+			xi = the value of the one observation
+			μ= the mean value of all observation
+			n = the number of observations
+
